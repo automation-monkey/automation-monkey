@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @automation-monkey
+- 👋 Hi, I’m Kujan @automation-monkey
 - 👀 I’m interested in Quality and Testing
 - 💞️ I’m looking to collaborate on intersting testing projects
 - 📫 How to reach me https://www.linkedin.com/in/kujan-h-test-engineer/
