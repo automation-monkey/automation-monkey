@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kujan @automation-monkey
+- 👋 Hi, I’m KH @automation-monkey
 - 👀 I’m interested in Quality and Testing
 - 💞️ I’m looking to collaborate on intersting testing projects
-- 📫 How to reach me https://www.linkedin.com/in/k-test-engineer/
+- 📫 How to reach me: https://www.linkedin.com/in/k-k-k-k-k-k/
 
 <!---
 automation-monkey/automation-monkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
